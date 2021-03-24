@@ -1,2 +1,2 @@
-# -Fisher-s-linear-discriminant
+# Fisher-s-linear-discriminant
 Linear discriminant analysis (LDA) from scratch
